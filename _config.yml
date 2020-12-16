@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Krishel Lasam
+author: Krishel Lasam
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  creative technologist with skills in web dev, data science, and it networking
 baseurl: ""
 
 plugins:
