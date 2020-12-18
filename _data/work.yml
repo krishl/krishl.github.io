@@ -6,7 +6,7 @@ work:
     items:
       - item: ds1.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example.html
+      - item: ds2.html
         image: /images/NYC2.jpg
       - item: example2.html
         image: /images/NYC3.jpg
