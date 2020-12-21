@@ -5,14 +5,36 @@ work:
   - category: Data Science
     items:
       - item: ds1.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+        image: /images/ds1.jpg # optionally, include the file path for an image for each item
       - item: ds2.html
-        image: /images/NYC2.jpg
-      - item: example2.html
-        image: /images/NYC3.jpg
-      - item: example3.html
-        image: /images/NYC4.jpg
-  - category: Los Angeles
+        image: /images/ds2.jpg
+      - item: ds3.html
+        image: /images/ds3.jpg
+      - item: ds4.html
+        image: /images/ds4.jpg
+      - item: ds5.html
+        image: /images/ds5.jpg
+      - item: ds6.html
+        image: /images/ds6.jpg
+      - item: ds7.html
+        image: /images/ds7.jpg
+      - item: ds8.html
+        image: /images/ds8.jpg
+      - item: ds9.html
+        image: /images/ds9.jpg
+      - item: ds10.html
+        image: /images/ds10.jpg
+      - item: ds11.html
+        image: /images/ds11.jpg
+      - item: ds12.html
+        image: /images/ds12.jpg
+      - item: ds13.html
+        image: /images/ds13.jpg
+      - item: ds14.html
+        image: /images/ds14.jpg
+      - item: ds15.html
+        image: /images/ds15.jpg
+  - category: Web Development
     items:
       - item: example.html
         image: /images/LA1.jpg
