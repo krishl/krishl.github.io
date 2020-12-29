@@ -41,6 +41,6 @@ work:
       - item: web2.html
         image: /images/web2.PNG
       - item: web3.html
-        image: /images/LA3.jpg
+        image: /images/web3.PNG
       - item: web4.html
-        image: /images/LA4.jpg
+        image: /images/web4.PNG
