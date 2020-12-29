@@ -36,9 +36,9 @@ work:
         image: /images/ds15.jpg
   - category: Web Development
     items:
-      - item: example.html
+      - item: web1.html
         image: /images/LA1.jpg
-      - item: example.html
+      - item: web2.html
         image: /images/LA2.jpg
       - item: example2.html
         image: /images/LA3.jpg
