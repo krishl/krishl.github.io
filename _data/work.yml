@@ -37,9 +37,9 @@ work:
   - category: Web Development
     items:
       - item: web1.html
-        image: /images/web1.png
+        image: /images/web1.PNG
       - item: web2.html
-        image: /images/web2.png
+        image: /images/web2.PNG
       - item: example2.html
         image: /images/LA3.jpg
       - item: example3.html
