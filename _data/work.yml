@@ -40,7 +40,7 @@ work:
         image: /images/web1.PNG
       - item: web2.html
         image: /images/web2.PNG
-      - item: example2.html
+      - item: web3.html
         image: /images/LA3.jpg
-      - item: example3.html
+      - item: web4.html
         image: /images/LA4.jpg
