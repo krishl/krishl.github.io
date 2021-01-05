@@ -42,16 +42,25 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
-
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
-  
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
-
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
+With a natural inclination for technology throughout my life, I began coding website layouts and designing graphics on Photoshop at the age of 9, fulfilling 1,500 design requests online for free.
 
 
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+I spent my high school years in Brooklyn Technical High School as a Chemical Engineering major, while also taking classes outside my major such as “Design & Drafting for Production,” “Introduction to Electricity,” and “Architectural Drawing.” 
+
+
+I majored in Economics at Hunter College and was elected as Webmaster for the pre-dental club by my sophomore year. Toward the end of college I got the opportunity to take elective courses such as “Introduction to Computer Science,” “Computers and Money,” and “Introduction to Python,” all of which amplified my interest in technology.
+
+
+After graduating, I explored careers that combined technology with analytical thinking and creativity – three skills that I have honed and enjoyed throughout my life. After evaluating the culmination of my past experiences, I studied web development, computer networking, and data science to further my career as a technology professional.
+
+### Technical Skills and Knowledge
+
+Web Development: JavaScript, Ruby, Ruby on Rails, HTML, CSS, Sinatra, jQuery, React.js, Redux, Git, Heroku
+
+Data Science: Python, Pandas, Scikit-Learn, SQL, Jupyter Notebook
+
+Networking: IPv4, IPv6, TCP/IP, LAN, WAN, Cisco Routers, Cisco Switches
+
+Software: Visual Studio Code, Atom, Terminal, Microsoft Office, Windows, macOS, Linux
+
+[![CompTIA A+ Certified](https://images.youracclaim.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png "CompTIA A+ Certified")](https://www.youracclaim.com/badges/99ba93aa-c064-4b8d-aac1-ee9f8ee2343a/public_url)  [![CCNA Certified](https://images.youracclaim.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png "CCNA Certified")](https://www.youracclaim.com/badges/7e553a7a-d120-453a-aa8a-62969fa2492d/public_url)
