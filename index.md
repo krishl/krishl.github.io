@@ -49,8 +49,11 @@ After graduating, I explored careers that combined technology with analytical th
 # Technical Skills and Knowledge
 
 Web Development: JavaScript, Ruby, Ruby on Rails, HTML, CSS, Sinatra, jQuery, React.js, Redux, Git, Heroku
+
 Data Science: Python, Pandas, Scikit-Learn, SQL, Jupyter Notebook
+
 Networking: IPv4, IPv6, TCP/IP, LAN, WAN, Cisco Routers, Cisco Switches
+
 Software: Visual Studio Code, Atom, Terminal, Microsoft Office, Windows, macOS, Linux
 
 [![CompTIA A+ Certified](https://images.youracclaim.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png "CompTIA A+ Certified")](https://www.youracclaim.com/badges/99ba93aa-c064-4b8d-aac1-ee9f8ee2343a/public_url)  [![CCNA Certified](https://images.youracclaim.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png "CCNA Certified")](https://www.youracclaim.com/badges/7e553a7a-d120-453a-aa8a-62969fa2492d/public_url)
