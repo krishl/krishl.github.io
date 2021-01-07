@@ -19,7 +19,7 @@ favicon: /assets/ico/favicon.ico
 github_username:  krishl
 linkedin: krishel
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
-# google_analytics: <-- your google analytics Tracking ID
+# google_analytics: G-XJVYDX4TE7 <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: mailto:krishel.lasam@gmail.com # the link
