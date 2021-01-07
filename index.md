@@ -42,9 +42,11 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-With a natural inclination for technology throughout my life, I began coding website layouts and designing graphics on Photoshop at the age of 9, fulfilling 1,500 design requests online for free. I spent my high school years in Brooklyn Technical High School as a Chemical Engineering major, while also taking classes outside my major such as “Design & Drafting for Production,” “Introduction to Electricity,” and “Architectural Drawing.” I majored in Economics at Hunter College and was elected as Webmaster for the pre-dental club by my sophomore year. Toward the end of college I got the opportunity to take elective courses such as “Introduction to Computer Science,” “Computers and Money,” and “Introduction to Python,” all of which amplified my interest in technology.
+With a natural inclination for technology throughout her life, Krishel began coding website layouts and designing graphics on Photoshop at the age of 9, fulfilling 1,500 design requests online for free. Krishel spent her high school years in Brooklyn Technical High School as a Chemical Engineering major, while also taking classes outside her major such as “Design & Drafting for Production,” “Introduction to Electricity,” and “Architectural Drawing.”
 
-After graduating, I explored careers that combined technology with analytical thinking and creativity – three skills that I have honed and enjoyed throughout my life. After evaluating the culmination of my past experiences, I studied web development, computer networking, and data science to further my career as a technology professional.
+Krishel majored in Economics at Hunter College and was elected as Webmaster for the pre-dental club by her sophomore year. Toward the end of college she got the opportunity to take elective courses such as “Introduction to Computer Science,” “Computers and Money,” and “Introduction to Python,” all of which amplified her interest in technology.
+
+After graduating, she explored careers that combined technology with analytical thinking and creativity – three skills that she has honed and enjoyed throughout her life. After evaluating the culmination of her past experiences, she studied web development, computer networking, and data science to further her career as a technology professional.
 
 **Technical Skills and Knowledge**
 
